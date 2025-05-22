@@ -21,7 +21,7 @@ webpack-project/
 ├── package.json
 ├── webpack.config.js
 └── README.md
-
+```
 
 
 ## Features
