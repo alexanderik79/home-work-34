@@ -4,6 +4,7 @@ This is a Webpack-based project configured to meet specific requirements, includ
 
 ## Project Structure
 
+```plaintext
 webpack-project/
 ├── src/
 │   ├── assets/
@@ -14,7 +15,7 @@ webpack-project/
 │   ├── styles/
 │   │   └── main.css
 │   ├── index.html
-│   ├── index.js
+│   └── index.js
 ├── create-folders.ps1
 ├── run-create-folders.sh
 ├── package.json
