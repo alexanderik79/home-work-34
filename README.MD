@@ -5,20 +5,35 @@ This is a Webpack-based project configured to meet specific requirements, includ
 ## Project Structure
 
 webpack-project/
+
 ├── src/
+
 │   ├── assets/
+
 │   │   ├── fonts/
+
 │   │   │   └── Roboto-Regular.ttf
+
 │   │   ├── images/
+
 │   │   │   └── image.png
+
 │   ├── styles/
+
 │   │   └── main.css
+
 │   ├── index.html
+
 │   ├── index.js
+
 ├── create-folders.ps1
+
 ├── run-create-folders.sh
+
 ├── package.json
+
 ├── webpack.config.js
+
 └── README.md
 
 
